@@ -1,0 +1,11 @@
+hi
+cd..
+cd file name
+git init to initial git rep
+git add .
+git remote add origin https://github.com/JaivishwA/Learninggithub2.git
+git branch
+git branch -M main to chnage
+git branch -a to check braches
+git pull to reflect chnages froom web
+git checkout gitbranch2
