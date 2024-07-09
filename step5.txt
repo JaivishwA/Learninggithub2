@@ -9,3 +9,5 @@ git branch -M main to chnage
 git branch -a to check braches
 git pull to reflect chnages froom web
 git checkout gitbranch2
+git diff gitbranch and q to exit
+git merge brachname
